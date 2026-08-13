@@ -154,16 +154,16 @@ Interface responsiva adaptada para diferentes tamanhos de tela, com foco em usab
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yagodolol-sketch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagodolol-sketch&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YagoRafaelDev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoRafaelDev&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=yagodolol-sketch&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=YagoRafaelDev&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yagodolol-sketch&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YagoRafaelDev&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade" />
 
 </div>
 
